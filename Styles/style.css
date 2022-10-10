@@ -21,6 +21,14 @@ footer p {
     font-weight: bold;
 }
 
+header, main, footer {
+    min-width: 100%;
+}
+
+header,footer {
+    background-color: darkgray;
+}
+
 header, .menu-list {
     display: inline-flex;
 }

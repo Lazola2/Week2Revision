@@ -20,3 +20,17 @@ th, td {
 footer p {
     font-weight: bold;
 }
+
+header, .menu-list {
+    display: inline-flex;
+}
+
+header img {
+    width: 5em;
+}
+
+/* menu-list */
+.menu-list {
+    list-style: none;
+}
+
